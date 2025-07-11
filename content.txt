@@ -1,0 +1,15 @@
+1-->Classes and Objects
+
+🎯 Today we will first learn about all of the classes and Objects with perfect examples 🔥
+Okay , so we are given something like
+
+Class --------------> Object-------------> Data/Attributes-------------------------> functions
+Mobile Phone 📲-----> Vivo v39Pro 5G ----> Size,Weight , Camera-Mps, Securities--->we can call,play games.
+
+Class --------------> Object-------------> Data/Attributes-------------------------> functions
+Employee🧑‍💼----------> Sourit -----------> ID,salary,designation---------------->report,presentation,travel
+
+
+Then , Ai gave me a mini assignment of creating a Student class and give it some data/attributes and then some methods to implify within the class.
+
+
